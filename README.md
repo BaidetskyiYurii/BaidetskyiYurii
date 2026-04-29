@@ -1,6 +1,6 @@
 # Hi, I'm Yurii 👋
 
-iOS Engineer based in **Brooklyn, NY** — building native apps with Swift and SwiftUI for 4+ years.  
+iOS Engineer based in **Brooklyn, NY** — building native apps with Swift and SwiftUI for 5+ years.  
 I care about clean architecture, real performance, and products that people actually want to use.
 
 ---
