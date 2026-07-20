@@ -1,6 +1,5 @@
 # Hi, I'm Yurii 👋
-
-iOS Engineer based in **Brooklyn, NY** — building native apps with Swift and SwiftUI for 5+ years.  
+iOS Engineer based in **NYC** — building native apps with Swift and SwiftUI for 5+ years.  
 I care about clean architecture, real performance, and products that people actually want to use.
 
 ---
@@ -8,25 +7,31 @@ I care about clean architecture, real performance, and products that people actu
 ## 🛠 What I work with
 
 **Languages & Frameworks**  
-Swift · SwiftUI · UIKit · Combine · Async/Await · Actors · GCD · HealthKit · WatchKit · WidgetKit · StoreKit · ARKit · RealityKit
+Swift · Objective-C · SwiftUI · UIKit · Combine · Async/Await · Actors · GCD · AVFoundation · Core Animation · HealthKit · WatchKit · WidgetKit · StoreKit · ARKit · RealityKit
 
 **Architecture & Patterns**  
-MVVM · Clean Architecture · VIPER · TDD · SOLID · Modular SPM
+MVVM · Clean Architecture · VIPER · TDD · SOLID · Modular SPM · Coordinator · Dependency Injection
 
 **Data & Networking**  
-Core Data · SwiftData · Realm · URLSession · Alamofire · REST APIs · WebSockets · GraphQL
+Core Data · SwiftData · Realm · CloudKit · SQLite · URLSession · Alamofire · REST APIs · WebSockets · GraphQL · Background URLSession · BGTaskScheduler
 
 **Payments**  
-Stripe · Apple Pay · Braintree · PayPal · MADA
+Stripe · Apple Pay · Braintree · PayPal · StoreKit
 
 **Location & Mapping**  
 Core Location · MapKit · Google Maps · IndoorAtlas · Mist SDK
 
-**CI/CD & Tools**  
-Xcode · App Store Connect · TestFlight · SPM · CocoaPods · Git · Firebase · Sentry
+**Security**  
+Keychain · App Transport Security · OAuth 2.0 · Secure Coding
+
+**AI & Dev Tools**  
+Claude Code · Cursor · Codex — integrated into daily workflow
+
+**CI/CD & Tooling**  
+Xcode · App Store Connect · TestFlight · SPM · CocoaPods · Git · GitHub Actions · Fastlane · Xcode Cloud · Firebase · Sentry
 
 **Accessibility**  
-WCAG · Dynamic Type · VoiceOver
+WCAG · Dynamic Type · VoiceOver · Accessibility Inspector
 
 ---
 
@@ -34,11 +39,11 @@ WCAG · Dynamic Type · VoiceOver
 
 | App | Domain | Highlights |
 |-----|--------|------------|
-| 📍 Enterprise indoor navigation app | Navigation | IndoorAtlas + Mist SDK, indoor-outdoor transitioning, real-time positioning, used by organizations globally |
-| 🌐 Global WiFi finder | Utilities | 42 languages, map rendering, WiFi auto-connect, offline support, active releases |
-| 📖 Multi-platform reader | Books | iPhone · iPad · Apple Watch · Mac · 5.0 App Store rating · Active since 2011 · CloudKit sync · WidgetKit |
+| 📍 Enterprise indoor navigation app | Navigation | IndoorAtlas + Mist SDK · indoor-outdoor transitioning · real-time positioning · deployed globally |
+| 🌐 Global WiFi finder | Utilities | 42 languages · map rendering · WiFi auto-connect · offline support · 100k+ active users |
+| 📖 Multi-platform reader | Media | iPhone · iPad · Apple Watch · Mac · ⭐ 4.7 App Store · Active since 2011 · AVFoundation audio streaming · CloudKit sync · WidgetKit |
 | 💳 Fintech payment apps | Fintech | Stripe · Apple Pay · Braintree · full SDK-to-App Store implementation |
-| 🕶️ AR room planning features | AR | ARKit · RealityKit · immersive spatial experiences |
+| 🕶️ AR room planning features | AR/Spatial | ARKit · RealityKit · immersive spatial experiences |
 | 🏃 Wellness & fitness apps | Health | SwiftUI · HealthKit · cross-functional team delivery |
 
 ---
@@ -56,9 +61,11 @@ WCAG · Dynamic Type · VoiceOver
 
 ## 🎓 Certifications
 
+- 🤖 AI Fluency: Framework & Foundations — **Anthropic** (May 2026)
 - 📱 Mastering SwiftData & SwiftUI for iOS Development — Udemy (2025)
 - 🕶️ Building AR Apps with RealityKit & ARKit — Udemy (2024)
 - 🧩 Design Patterns in Swift — Udemy (2024)
+- 📱 iOS Developer Certification — ITEA IT Education Academy (2023)
 
 ---
 
